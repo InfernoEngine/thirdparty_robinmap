@@ -4,14 +4,11 @@
 	<GlobalSolutionName>ThirdParty</GlobalSolutionName>
 	<GlobalNamespace>potato</GlobalNamespace>
 
-	<StaticLibrary>
+	<HeaderLibrary>
 		<Name>thirdparty_robinmap</Name>
 		<SourceRoot>.</SourceRoot>
 		<ExportedIncludeDirectory>include</ExportedIncludeDirectory>
 		<ThirdParty>true</ThirdParty>
-		<ThirdPartySourceFile>
-			dummy.cpp
-		</ThirdPartySourceFile>
-	</StaticLibrary>
+	</HeaderLibrary>
 
 </Module>
