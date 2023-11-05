@@ -1,4 +1,4 @@
-int stb_test()
+int robinmap_test()
 {
 	return 0;
 }
